@@ -1,4 +1,4 @@
-py -3.10 odoo-bin -d test_db -u employee_test_module --dev=all
+
 *File Structure 
 
 employee_test_module/
