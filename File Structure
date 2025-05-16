@@ -1,0 +1,13 @@
+*File Structure 
+
+employee_test_module/
+├── init.py
+├── manifest.py
+├── models/
+│ └── stock_picking_batch.py # Python model with custom fields
+├── views/
+│ ├── stock_picking_batch_inherit.xml
+│ ├── sale_order_kanban_inherit.xml
+│ └── employee_record_views.xml # If applicable
+└── reports/
+└── picking_operation_report_inherit.xml
